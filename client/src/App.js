@@ -1,5 +1,5 @@
-import React, { Component } from "react";
-import FileUpload from "./components/fileUpload";
+import React from "react";
+import FileUpload from "./components/FileUpload";
 import "./App.css";
 
 const App = () => (
